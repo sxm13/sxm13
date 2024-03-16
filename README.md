@@ -7,4 +7,10 @@
 
 **About me:** I am a [graduate student] at [PNU](https://pusan.ac.kr/kor/Main.do), advised by [prof. Chung](https://sites.google.com/view/mtap-lab/people/professor?authuser=0). 
 
-**Research interests:** My research interests lie in the areas of [Molecular simulation], [Machine Learning], and [MOF database]. 
+**Research interests:** My research interests lie in the areas of [Molecular simulation], [Machine Learning], and [MOF database].      
+
+                          
+**Working on:** 
+* Multiscale modeling for adsorption separation (GCMC, MD, DFT, Machine learning, Process simulation).
+
+* CoRE MOF database.
