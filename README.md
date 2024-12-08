@@ -11,8 +11,7 @@
 
                           
 **Working on:** 
-* Multiscale simulation for adsorption separation (GCMC, MD, DFT, Machine learning, Process simulation).
-
-* CoRE MOF database.
-
+* Multiscale simulation for adsorption separation (GCMC, MD, DFT, Machine learning, Process simulation).                   
+* CoRE MOF database.                                     
 * Experiment (measure for porous materials).                                                            
+                       
