@@ -11,8 +11,10 @@
 
                           
 **Working on:** 
-* Multiscale simulation for adsorption separation (GCMC, MD, DFT, Machine learning, Process simulation).                   
-* CoRE MOF database.                                     
-* Experiment (measure for porous materials).                                                            
+* Multiscale Simulation for Adsorption Separation (GCMC, MD, DFT, Process simulation).
+* Text Mining.
+* Machine Learning (scikit-learn, pytorch, transformers).
+* CoRE MOF database (2024).                                     
+* Experiment (adsorption isotherms, density, gas storage).                                                            
                        
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxm13&show_icons=true&theme=radical)  
