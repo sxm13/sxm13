@@ -18,3 +18,4 @@
 * Experiment (adsorption isotherms, density, gas storage).                                                            
                        
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxm13&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxm13&hide=java,html,css&theme=dracula)
