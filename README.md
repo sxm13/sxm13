@@ -2,7 +2,8 @@
 ### <samp>&gt; Hi there, I'm [Guobin](https://sxm13.github.io/GuobinZhao.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guobin-zhao-427818256/)
-
+[![PyPI Badge](https://img.shields.io/badge/PyPI-Guobin%20Zhao-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/q342247760/)
+                                        
 ### Welcome! &nbsp;
 
 **About me:** I am a [graduate student] at [PNU](https://pusan.ac.kr/kor/Main.do), advised by [prof. Chung](https://sites.google.com/view/mtap-lab/people/professor?authuser=0). 
