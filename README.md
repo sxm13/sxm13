@@ -3,6 +3,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guobin-zhao-427818256/)
 [![PyPI Badge](https://img.shields.io/badge/PyPI-Guobin%20Zhao-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/q342247760/)
+[![Zenodo Badge](https://img.shields.io/badge/Zenodo-Guobin%20Zhao-FF6600?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ZHAO%2C%20GUOBIN%22&l=list&p=1&s=10&sort=bestmatch)
+                                        
                                         
 ### Welcome! &nbsp;
 
