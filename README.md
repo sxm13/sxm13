@@ -19,11 +19,7 @@
 * Machine Learning (scikit-learn, pytorch, transformers).
 * CoRE MOF database (2024).                                     
 * Experiment (adsorption isotherms, density, gas storage).                                                            
-                       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxm13&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxm13&hide=java,html,css&theme=dracula)   
-![Commit](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sxm13&theme=maroongold)
-![contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxm13&theme=maroongold)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sxm13&show_icons=true&theme=radical">
