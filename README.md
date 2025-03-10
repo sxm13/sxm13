@@ -1,8 +1,8 @@
-
+![](https://komarev.com/ghpvc/?username=sxm13)
+### <samp>&gt; Hi there, I'm [Guobin](https://sxm13.github.io/GuobinZhao.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <table>
   <tr>
     <td width="70%">
-      <h2>👋 Hi there, I'm <a href="https://sxm13.github.io/GuobinZhao.github.io/">Guobin</a>!</h2>
       <p>
         <strong>About me:</strong> I am a <a href="https://pusan.ac.kr/kor/Main.do">graduate student</a>, 
         advised by <a href="https://sites.google.com/view/mtap-lab/people/professor?authuser=0">prof. Chung</a>.
