@@ -9,7 +9,7 @@
     <td width="70%">
       <p>
         <strong>About me:</strong> I am a <a href="https://pusan.ac.kr/kor/Main.do">graduate student</a>, 
-        advised by <a href="https://sites.google.com/view/mtap-lab/people/professor?authuser=0">prof. Chung</a>.
+        advised by <a href="https://sites.google.com/view/dcel-lab/people/professor">prof. Chung</a>.
       </p>
       <p>
         <strong>Research interests:</strong> My research interests lie in the areas of <strong>Molecular simulation</strong>, 
