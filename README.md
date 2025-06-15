@@ -19,7 +19,6 @@
         <strong>Working on:</strong>
         <ul>
           <li>Multiscale Simulation for Adsorption Separation.</li>
-          <li>Text Mining.</li>
           <li>Machine Learning.</li>
           <li>CoRE MOF database.</li>
           <li>Experiment.</li>
