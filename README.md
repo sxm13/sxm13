@@ -18,11 +18,11 @@
       <p>
         <strong>Working on:</strong>
         <ul>
-          <li>Multiscale Simulation for Adsorption Separation (GCMC, MD, DFT, Process simulation).</li>
+          <li>Multiscale Simulation for Adsorption Separation.</li>
           <li>Text Mining.</li>
-          <li>Machine Learning (scikit-learn, pytorch, transformers).</li>
-          <li>CoRE MOF database (2024).</li>
-          <li>Experiment (adsorption isotherms, density, gas storage).</li>
+          <li>Machine Learning.</li>
+          <li>CoRE MOF database.</li>
+          <li>Experiment.</li>
         </ul>
       </p>
     </td>
