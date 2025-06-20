@@ -8,7 +8,7 @@
   <tr>
     <td width="70%">
       <p>
-        <strong>About me:</strong> I am a <a href="https://pusan.ac.kr/kor/Main.do">graduate student</a>, 
+        <strong>About me:</strong> <a href="https://resume.github.io/?sxm13">I</a> am a <a href="https://pusan.ac.kr/kor/Main.do">graduate</a> student, 
         advised by <a href="https://sites.google.com/view/dcel-lab/people/professor">prof. Chung</a> from 2020.09 to 2025.08.
       </p>
       <p>
