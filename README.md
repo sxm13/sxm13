@@ -17,10 +17,10 @@
       </p>
       <strong>Working on:</strong>
       <ul>
-        <li>Multiscale Simulation for Adsorption Separation.</li>
-        <li>Machine Learning.</li>
-        <li>CoRE MOF database.</li>
-        <li>Experiment.</li>
+        <li>Multiscale Simulation for Adsorption Separation</li>
+        <li>Machine Learning</li>
+        <li>CoRE MOF database</li>
+        <li>Experiment</li>
       </ul>
     </p>
     </td>
