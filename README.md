@@ -8,22 +8,21 @@
   <tr>
     <td width="70%">
       <p>
-        <strong>About me:</strong> <a href="https://resume.github.io/?sxm13">I</a> am a <a href="https://pusan.ac.kr/kor/Main.do">graduate</a> student, 
-        advised by <a href="https://sites.google.com/view/dcel-lab/people/professor">prof. Chung</a> from 2020.09 to 2025.08.
-      </p>
-      <p>
-        <strong>Research interests:</strong> My research interests lie in the areas of <strong>Molecular simulation</strong>, 
-        <strong>Machine Learning</strong>, and <strong>MOF database</strong>.
-      </p>
-      <p>
-        <strong>Working on:</strong>
+        <strong>Research interests:</strong>
         <ul>
-          <li>Multiscale Simulation for Adsorption Separation.</li>
-          <li>Machine Learning.</li>
-          <li>CoRE MOF database.</li>
-          <li>Experiment.</li>
+        <li>Molecular simulation</li>
+        <li>Machine Learning</li>
+        <li>MOF database</li>
         </ul>
       </p>
+      <strong>Working on:</strong>
+      <ul>
+        <li>Multiscale Simulation for Adsorption Separation.</li>
+        <li>Machine Learning.</li>
+        <li>CoRE MOF database.</li>
+        <li>Experiment.</li>
+      </ul>
+    </p>
     </td>
     <td width="30%">
       <img src="https://github-readme-stats.vercel.app/api?username=sxm13&show_icons=true&theme=radical" width="100%">
