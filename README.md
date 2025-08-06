@@ -3,18 +3,18 @@
   <tr>
     <td width="50%">
       <p>
-        <strong>Research interests:</strong>
+        <strong>Research Interests:</strong>
         <ul>
-        <li>Molecular simulation</li>
+        <li>Molecular Simulation</li>
         <li>Machine Learning</li>
-        <li>MOF database</li>
+        <li>Big Data</li>
         </ul>
       </p>
       <strong>Working on:</strong>
       <ul>
         <li>Multiscale Simulation for Adsorption Separation</li>
         <li>Machine Learning</li>
-        <li>CoRE MOF database</li>
+        <li>CoRE MOF Database</li>
         <li>Experiment</li>
       </ul>
     </p>
