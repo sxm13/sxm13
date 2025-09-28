@@ -5,19 +5,11 @@
       <p>
         <strong>Research Interests:</strong>
         <ul>
-        <li>Molecular Simulation</li>
-        <li>Machine Learning</li>
-        <li>Big Data</li>
+        <li>Molecular Simulation (MD, DFT, MC)</li>
+        <li>Artificial Intelligence (Machine Learning, GNN, Transformer, LLM)</li>
+        <li>Big Data (MOF Database)</li>
         </ul>
       </p>
-      <strong>Working on:</strong>
-      <ul>
-        <li>Multiscale Simulation for Adsorption Separation</li>
-        <li>Machine Learning</li>
-        <li>CoRE MOF Database</li>
-        <li>Experiment</li>
-      </ul>
-    </p>
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=sxm13&show_icons=true&theme=radical" width="100%">
