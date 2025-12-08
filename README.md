@@ -2,14 +2,13 @@
 
 ---
 
-## **Research Interests**
-- Molecular Simulation (MD, DFT, MC)  
+- Molecular Simulation (MD, DFT, MC)                  
 - Artificial Intelligence (Machine Learning, GNN, Transformer, LLM)  
-- Big Data (MOF Database)
+- Big Data (Structures Database & in silico Screening)
+- Experiment & Industry Application
 
 ---
 
-## **GitHub Stats**
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxm13&theme=maroongold" width="100%">
 
 ---
