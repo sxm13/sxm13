@@ -7,9 +7,7 @@
 - Big Data (Structures Database & in silico Screening)
 - Experiment & Industry Application
 
----
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxm13&theme=maroongold" width="100%">
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxm13&theme=maroongold" width="100%"> -->
 
 ---
 
