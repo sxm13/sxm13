@@ -3,7 +3,7 @@
 ---
 
 - Molecular Simulation (MD, DFT, MC)                  
-- Artificial Intelligence (Machine Learning, GNN, Transformer, LLM)  
+- Artificial Intelligence (Machine Learning, GNN, Transformer, LLM, Diffusion model)  
 - Big Data (Structures Database & in silico Screening)
 - Experiment & Industry Application
 
